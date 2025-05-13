@@ -1,4 +1,4 @@
-currently picking up C++ and learning webdev
+C++ enjoyer, playing around with webdev
 
 check out my repos!
 
