@@ -1,4 +1,4 @@
-C++ enjoyer, playing around with webdev
+interested in systems, playing around with webdev
 
 check out my repos!
 
