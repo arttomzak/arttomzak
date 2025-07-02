@@ -1,4 +1,4 @@
-enjoy your stay
+enjoy your stay!
 
 <!--
 **arttomzak/arttomzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
