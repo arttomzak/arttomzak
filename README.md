@@ -1,4 +1,4 @@
-interested in systems and low-level code.
+interested in systems and high-performance code
 
 enjoy your stay!
 
